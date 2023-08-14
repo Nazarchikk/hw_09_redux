@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hw_09_redux/static/css/main.f41b9a5f.css",
+    "main.js": "/hw_09_redux/static/js/main.e8c73ff7.js",
+    "index.html": "/hw_09_redux/index.html",
+    "main.f41b9a5f.css.map": "/hw_09_redux/static/css/main.f41b9a5f.css.map",
+    "main.e8c73ff7.js.map": "/hw_09_redux/static/js/main.e8c73ff7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f41b9a5f.css",
+    "static/js/main.e8c73ff7.js"
+  ]
+}
